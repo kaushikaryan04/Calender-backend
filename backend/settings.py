@@ -144,4 +144,4 @@ SIMPLE_JWT = {
 CORS_ALLOWED_ORIGINS = ["http://localhost:5173" , "http://localhost:5173" ,"http://localhost:5173"]
 
 CORS_ALLOW_ALL_ORIGINS = True
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost' ,'calender-backend-kbs7.onrender.com']
